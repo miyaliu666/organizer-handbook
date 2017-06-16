@@ -11,6 +11,7 @@ FCC China经过一年的发展，目前已在30多个城市建立了线下学习
 - FCC China的使命和愿景
 - 社区运营的原则--“yes” and “no”
 - 如何发起一个城市社区
+- 社区的素材
 - 组织团队的结构、角色、分工
 - 组织团队如何沟通和协作
 - 社区活动的类型和组织流程
@@ -28,5 +29,7 @@ FCC China经过一年的发展，目前已在30多个城市建立了线下学习
   e.其他机构
 - 评估社区
 ......
+
+[手册](https://github.com/FreeCodeCampChina/local-organizers-mannual/wiki) 全文在wiki中，[社区素材](https://github.com/FreeCodeCampChina/assets)请自取。
 
 ### 我们的征途是星辰大海 ###
