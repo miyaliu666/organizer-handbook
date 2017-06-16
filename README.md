@@ -32,4 +32,4 @@ FCC China经过一年的发展，目前已在30多个城市建立了线下学习
 
 [手册](https://github.com/FreeCodeCampChina/local-organizers-mannual/wiki) 全文在wiki中，[社区素材](https://github.com/FreeCodeCampChina/assets)请自取。
 
-### 我们的征途是星辰大海 ###
+
