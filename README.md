@@ -3,34 +3,25 @@
 
 现把各城市社区组织经验集结成册，以便指导所有城市社区的日常运营，以及新加入的组织者们参考学习。
 手册内容包括：
-- freeCodeCamp China的使命和愿景
-- 社区运营的原则--“yes” and “no”
-- 如何发起一个城市社区
-- 社区的素材
-- 组织团队的结构、角色、分工
-- 组织团队如何沟通和协作
-- 社区活动的类型和组织流程
-  a.Coffee and Code（本地）
-  b.半程黑客松（本地）
-  c.共创项目（本地）
-  d.高校编程挑战赛（总部）
-  e.Tech for Good峰会（总部）
-- 社交媒体
-- 如何对外合作
-  a.学校
-  b.企业
-  c.其他技术社区
-  d.政府
-  e.其他机构
-- 评估社区
+* [使命和愿景]
+* [发起社区]
+* [组织团队的结构]
+* [组织团队沟通和协作]
+* [社区活动的类型和组织流程]
+    * [Coffee and Code]
+    * [半程黑客松]
+    * [一起做项目]
+* [对外合作]
+* [社区文件管理]
+* [相关文档]
 ......
 
 [手册](https://github.com/FreeCodeCampChina/local-organizers-mannual/wiki) 全文在wiki中，[社区素材](https://github.com/FreeCodeCampChina/assets)请自取。
 #### 欢迎大家对手册的内容提出建议，发Issue给我们 ^_^
 #### 本手册采用Creative Commons协议。
 
-### 猿生态创始团队
-关于freeCodeCamp China的咨询、合作请联络我们
+### freeCodeCamp China创始团队
+关于freeCodeCamp中文社区的咨询、合作请联络我们
 
 * 晋剑 Jack Jin
   邮箱：jack.jin@deveco.io
