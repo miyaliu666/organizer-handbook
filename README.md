@@ -1,5 +1,5 @@
 ### freeCodeCamp China组织者手册 
-[freeCodeCamp China](https://www.freecodecamp.cn/)是[猿生态开发者社区](www.deveco.io)经[Quincy Larson](https://github.com/QuincyLarson)带领的[freeCodeCamp官方团队](https://github.com/freeCodeCamp/freeCodeCamp)授权，成立并运营的中文社区。2016年4月，在全国各地近20名翻译志愿者的帮助下，我们完成了所有课程的翻译，目前已在30多个城市建立了同城学习小组。越来越多的camper加入到组织者行列，为当地程序员们打造一个交流、学习、协作的有爱的社区。Let's Learn to Code and Tech for Good!
+[freeCodeCamp China](https://www.freecodecamp.cn/)是[猿生态开发者社区](www.deveco.io)经[Quincy Larson](https://github.com/QuincyLarson)带领的[freeCodeCamp官方团队](https://www.freecodecamp.org/)授权，成立并运营的中文社区。2016年4月，在全国各地近20名翻译志愿者的帮助下，我们完成了所有课程的翻译，目前已在30多个城市建立了同城学习小组。越来越多的camper加入到组织者行列，为当地程序员们打造一个交流、学习、协作的有爱的社区。Let's Learn to Code and Tech for Good!
 
 现把各城市社区组织经验集结成册，以便指导所有城市社区的日常运营，以及新加入的组织者们参考学习。
 手册内容包括：
